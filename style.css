@@ -36,3 +36,26 @@ p{
 #middle{
     text-align: center;
 }
+.mid{
+    width: 20%;
+    float: left;
+    margin-left: 3%;
+    box-shadow: 5px 7px 40px rgb(117, 98, 98);
+    height: 80%;
+    background-color: azure;
+    padding: 20px;
+    border-radius: 10px;
+    
+   
+}
+.mid img{
+    width: 40%;
+}
+#mission{
+    border: 10px;
+    margin-left: 12%;
+    background-color: bisque;
+}
+#goll{
+    background-color: beige;
+}
