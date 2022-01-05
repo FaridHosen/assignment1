@@ -59,3 +59,20 @@ p{
 #goll{
     background-color: beige;
 }
+#coding{
+    margin-left: 8%;
+    margin-top: 80px;
+    width: 400px;
+}
+#solving{
+    margin-top: 150px;
+    
+}
+.sec-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, rgb(180, 152, 123), rgb(134, 118, 115));
+    padding: 10px 40px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 700;
+}
